@@ -14,8 +14,6 @@ import java.security.NoSuchAlgorithmException;
 import java.util.*;
 import java.util.function.Function;
 
-import static sun.net.www.protocol.http.AuthenticatorKeys.getKey;
-
 @Service
 public class JWTservice {
     private String secretkey = "";

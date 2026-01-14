@@ -82,9 +82,6 @@ Java 17+
 Use Lombok for boilerplate reduction
 
 Follow Spring naming conventions (Controller, Service, Repository)
-
-Indent with 4 spaces
-
 Keep code clean and well-commented
 
 🧩 Areas You Can Contribute To
